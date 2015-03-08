@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-baseurl: /
+baseurl: /try1try
 author: webfrogs
 pygments: true
 safe: true
